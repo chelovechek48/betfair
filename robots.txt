@@ -3,5 +3,5 @@ Allow: /
 Disallow: /go
 Disallow: /go/
 Disallow: /*?*
-Host: https://www.kingselec.co.nz
-Sitemap: https://www.kingselec.co.nz/sitemap.xml
+
+Sitemap: https://domain.com/sitemap.xml
