@@ -3,5 +3,5 @@ Allow: /
 Disallow: /go
 Disallow: /go/
 Disallow: /*?*
-
-Sitemap: https://domain.com/sitemap.xml
+Host: https://detailo.co.nz
+Sitemap: https://detailo.co.nz/sitemap.xml
